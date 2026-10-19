@@ -9,11 +9,6 @@ class Solution {
                 sum += i;
             }
         }
-        if(num==sum){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return sum==num;
     }
 }
