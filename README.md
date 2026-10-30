@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/4020-elevator-requests-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
