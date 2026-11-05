@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
