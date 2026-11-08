@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
+## Database
+|  |
+| ------- |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
