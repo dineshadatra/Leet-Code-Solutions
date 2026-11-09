@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -110,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
