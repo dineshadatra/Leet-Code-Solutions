@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3894-traffic-signal-color](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3894-traffic-signal-color](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3959-check-good-integer) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3894-traffic-signal-color](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 ## String Matching
 |  |
