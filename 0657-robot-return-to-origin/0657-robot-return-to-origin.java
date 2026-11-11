@@ -17,9 +17,6 @@ class Solution {
             }
 
         }
-        if(sum1==0 && sum2==0){
-            return true;
-        }
-        return false;
+        return sum1==0 && sum2==0;
     }
 }
