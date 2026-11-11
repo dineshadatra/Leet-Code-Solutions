@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/4020-elevator-requests-i) |
 ## Ternary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/4020-elevator-requests-i) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 ## String Matching
 |  |
 | ------- |
