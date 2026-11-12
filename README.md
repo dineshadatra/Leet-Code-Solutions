@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3360-stone-removal-game) |
