@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
