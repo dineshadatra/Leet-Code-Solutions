@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
