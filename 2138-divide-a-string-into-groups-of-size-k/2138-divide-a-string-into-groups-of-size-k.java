@@ -1,37 +1,17 @@
 class Solution {
     public String[] divideString(String s, int k, char fill) {
-        // List<String> ans = new ArrayList<>();
-        // StringBuilder str = new StringBuilder();
-
-        // for(int i=0;i<s.length();i++){
-        //     str.append(s.charAt(i));
-
-        //     if(str.length()==k){
-        //         ans.add(str.toString());
-        //         str.setLength(0);
-        //     }
-        // }
-        // if(str.length()>0){
-        //     while(str.length()<k){
-        //         str.append(fill);
-        //     }
-        //     ans.add(str.toString());
-        // }
-
-        // return ans.toArray(new String[0]);
-
-        ArrayList<String> ans = new ArrayList<>();
-
-        for(int i=0;i<s.length();i+=k){
-            int end = Math.min(i+k,s.length());
-            String sub = s.substring(i,end);
-
-            while(sub.length()<k){
-                sub += fill;
+        int n = s.length();
+        int size = (n+k-1)/k;
+        String ans[] = new String[size];
+        for(int i=0;i<size;i++){
+            int start = i*k;
+            int end = Math.min(start+k,n);
+            StringBuilder sb = new StringBuilder(s.substring(start,end));
+            while(sb.length()<k){
+                sb.append(fill);
             }
-            ans.add(sub);
+            ans[i]=sb.toString();
         }
-
-        return ans.toArray(new String[0]);
+        return ans;
     }
 }
