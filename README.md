@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3813-vowel-consonant-score](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 ## String Matching
