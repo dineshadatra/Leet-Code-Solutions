@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3360-stone-removal-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
