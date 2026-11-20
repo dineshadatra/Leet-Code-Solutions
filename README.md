@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2739-total-distance-traveled](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2739-total-distance-traveled) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3360-stone-removal-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2739-total-distance-traveled](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2739-total-distance-traveled) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3360-stone-removal-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3360-stone-removal-game) |
