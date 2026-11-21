@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0198-house-robber](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
