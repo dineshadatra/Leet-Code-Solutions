@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
