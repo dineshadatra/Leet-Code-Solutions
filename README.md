@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -154,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Database
 |  |
 | ------- |
