@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
