@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 | [1137-n-th-tribonacci-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -153,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Counting
