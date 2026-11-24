@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2079-watering-plants](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2079-watering-plants) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2079-watering-plants](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2079-watering-plants) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2739-total-distance-traveled](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2739-total-distance-traveled) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
