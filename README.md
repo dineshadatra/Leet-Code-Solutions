@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2739-total-distance-traveled](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2739-total-distance-traveled) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1929-concatenation-of-array) |
