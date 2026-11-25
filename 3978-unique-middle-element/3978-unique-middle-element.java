@@ -1,14 +1,10 @@
 class Solution {
     public boolean isMiddleElementUnique(int[] nums) {
-        int mid = nums[nums.length/2];
-        for(int i=0;i<nums.length;i++){
-            if(i==nums.length/2){
-                continue;
-            }
-            else{
-                if(nums[i] == mid){
-                    return false;
-                }
+        int n = nums.length;
+        int mid = nums[n/2];
+        for(int i=0;i<n/2;i++){
+            if(nums[i] == mid || nums[i+(n/2)+1]==mid){
+                return false;
             }
         }
         return true;
