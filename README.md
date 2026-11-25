@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0610-triangle-judgement) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Brainteaser
 |  |
