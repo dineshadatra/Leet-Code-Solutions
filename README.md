@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3921-score-validator](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/4020-elevator-requests-i) |
 ## Ternary Search
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3978-unique-middle-element) |
 ## Database
 |  |
 | ------- |
