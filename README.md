@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
