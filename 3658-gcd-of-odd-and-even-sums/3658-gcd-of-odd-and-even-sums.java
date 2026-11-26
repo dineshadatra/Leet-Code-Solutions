@@ -6,10 +6,10 @@ class Solution {
         int sumOdd = n*n;
         int sumEven = n*(n+1);
 
-        int max = 0;
-        for(int i = 1;i<Math.min(sumOdd,sumEven);i++){
+        int max = Integer.MIN_VALUE;
+        for(int i = 1;i<=n;i++){
             if(sumOdd%i==0 && sumEven%i==0){
-                max = i;
+                max = Math.max(max,i);
             }
         }
         return max;
