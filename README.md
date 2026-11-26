@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2079-watering-plants](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2079-watering-plants) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3340-check-balanced-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3978-unique-middle-element](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3978-unique-middle-element) |
 ## Database
 |  |
