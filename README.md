@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
