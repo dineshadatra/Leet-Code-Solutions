@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2079-watering-plants](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2079-watering-plants) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1486-xor-operation-in-an-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
