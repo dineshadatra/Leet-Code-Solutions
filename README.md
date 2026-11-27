@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/dineshadatra/Leet-Code-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
